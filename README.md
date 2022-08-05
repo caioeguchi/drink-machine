@@ -1,1 +1,2 @@
 # drink-machine
+Template pattern
